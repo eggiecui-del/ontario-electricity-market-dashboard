@@ -1,0 +1,9 @@
+fuel_id,fuel_type,fuel_group,is_renewable,is_non_emitting
+1,Biofuel,Renewable,True,True
+2,Gas,Fossil,False,False
+3,Hydro,Renewable,True,True
+4,Nuclear,Nuclear,False,True
+5,Other,Other,False,False
+6,Solar,Renewable,True,True
+7,Storage,Storage,False,False
+8,Wind,Renewable,True,True

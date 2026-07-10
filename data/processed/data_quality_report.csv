@@ -1,0 +1,10 @@
+check_name,value
+demand_rows,21887
+generation_rows,142248
+price_rows,2160
+missing_ontario_demand,0
+missing_generation_output,18
+missing_price,0
+demand_date_range,2024-01-01 to 2026-06-30
+generation_date_range,2024-01-01 to 2026-06-30
+price_date_range,2026-04-02 to 2026-06-30

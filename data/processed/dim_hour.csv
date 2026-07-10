@@ -1,0 +1,25 @@
+hour_id,hour_ending,hour_label,time_block
+1,1,HE 01,Overnight
+2,2,HE 02,Overnight
+3,3,HE 03,Overnight
+4,4,HE 04,Overnight
+5,5,HE 05,Overnight
+6,6,HE 06,Overnight
+7,7,HE 07,Morning
+8,8,HE 08,Morning
+9,9,HE 09,Morning
+10,10,HE 10,Morning
+11,11,HE 11,Morning
+12,12,HE 12,Afternoon
+13,13,HE 13,Afternoon
+14,14,HE 14,Afternoon
+15,15,HE 15,Afternoon
+16,16,HE 16,Afternoon
+17,17,HE 17,Afternoon
+18,18,HE 18,Evening
+19,19,HE 19,Evening
+20,20,HE 20,Evening
+21,21,HE 21,Evening
+22,22,HE 22,Evening
+23,23,HE 23,Evening
+24,24,HE 24,Overnight

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document docID="DAHourlyOntarioZonalPrice" xmlns="http://www.ieso.ca/schema">
+  <DocBody>
+    <DeliveryDate>2026-04-02</DeliveryDate>
+    <HourlyPriceComponents>
+      <PricingHour>1</PricingHour>
+      <ZonalPrice>31.11</ZonalPrice>
+      <LossPriceCapped>0.33</LossPriceCapped>
+      <CongestionPriceCapped>0.03</CongestionPriceCapped>
+      <Flag>DSO-RD</Flag>
+    </HourlyPriceComponents>
+  </DocBody>
+</Document>

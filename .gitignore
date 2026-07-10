@@ -1,0 +1,27 @@
+﻿# Local environment and credentials
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Raw downloads are reproducible from public sources and can be large
+data/raw/*
+!data/raw/.gitkeep
+
+# Keep processed output and small sample files trackable
+
+# OS/editor/log files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Power BI temporary files
+~$*.pbix
