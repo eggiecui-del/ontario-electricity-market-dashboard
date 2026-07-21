@@ -1,4 +1,4 @@
-﻿# Ontario Electricity Market Analytics Dashboard
+# Ontario Electricity Market Analytics Dashboard
 
 I made this project to analyze Ontario electricity demand, generation by fuel type, and market price patterns using public IESO data. The project is kept simple on purpose: Python ETL, PostgreSQL tables, SQL views, and a Power BI dashboard.
 
@@ -169,7 +169,3 @@ The methodology, data dictionary, validation notes, and dashboard findings are d
 - IESO reports use hour ending. I convert it into `timestamp_start` and `timestamp_end`.
 - The market stress score is my own exploratory metric, not an official IESO metric.
 - I did not add weather, forecasting, or real-time 5-minute price data because that would make the first version too large.
-
-
-
-

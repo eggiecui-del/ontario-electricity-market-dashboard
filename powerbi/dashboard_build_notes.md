@@ -1,4 +1,4 @@
-﻿# Dashboard Build Notes
+# Dashboard Build Notes
 
 ## Data Source
 
@@ -190,4 +190,3 @@ screenshots/supply_mix.png
 screenshots/price_volatility.png
 screenshots/market_stress.png
 ```
-

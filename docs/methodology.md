@@ -1,4 +1,4 @@
-﻿# Methodology
+# Methodology
 
 ## Goal
 
@@ -90,4 +90,3 @@ This limitation is noted because the available price data only covers part of th
 ## Interpretation Limits
 
 The dashboard shows associations, not causation. For example, high prices appear to be associated with high demand or lower renewable share in the available data, but the project does not prove that one factor directly caused another.
-
